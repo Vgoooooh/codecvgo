@@ -588,7 +588,7 @@
         },
         {
             "id": "valve_2_task",
-            "name": "Valve 1 Task",
+            "name": "Valve 2 Task",
             "value": "",
             "unit": "",
             "access_mode": "RW",
